@@ -1,5 +1,5 @@
 # AudioSwitch1
-Firmware for AudioSwitch v.1.
+Firmware for AudioSwitch v.1
 
 Audioswitch is a Arduino project to switch three audio inputs into one output.
 All of inputs are switched with buttons or with infrared remote control too.
