@@ -7,5 +7,5 @@ Audioswitch can learn to respond to the codes of different types of remote contr
 
 The program is written for microcontroller ATtiny1624. It is necessary to install support for MegaTinyCore family microcontrollers in the Arduino IDE: https://github.com/SpenceKonde/megaTinyCore
 
-In the file library.zip there is a library IRRemote for controlling signal decoding from IRC, which must be unpacked into the library folder for Arduino, e.g. Arduino/library
+In the file **library.zip** there is a library IRRemote for controlling signal decoding from IRC, which must be unpacked into the  Arduino library folder, e.g. Arduino/library
 I made modifications in the library, added correct support for ATtiny3226 and ATtiny1624 microcontroller. Original source of library: https://github.com/Arduino-IRremote/Arduino-IRremote
