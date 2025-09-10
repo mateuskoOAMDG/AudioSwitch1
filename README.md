@@ -1,4 +1,4 @@
-# AudioSwitch1
+# AudioSwitch
 > What is it
 
 Audioswitch is an Arduino project to switch three audio inputs into one output.
